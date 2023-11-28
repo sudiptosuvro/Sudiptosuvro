@@ -1,6 +1,6 @@
 ![logo](https://github.com/sudiptosuvro/Sudiptosuvro/blob/main/Banner%20Github.gif)
 <h1 align="center">Hi 👋, I'm Sudipto Das Suvro</h1>
-<h3 align="center">An Electrical Engineer and signal processing research enthusiast utilizing ML/DL.</h3>
+<h3 align="center">An Electrical Engineer and learner.</h3>
 
 <img align="right" alt="coding" width="350" src="https://makeitcenter.adobe.com/content/dam/edu-hub-assets/blog2/78_04_article.gif">
 
