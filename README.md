@@ -4,11 +4,11 @@
 
 <img align="right" alt="coding" width="350" src="https://makeitcenter.adobe.com/content/dam/edu-hub-assets/blog2/78_04_article.gif">
 
-- 🌱 I’m currently learning **Sensors and Integrated Circuit Design.**
+- 🌱 I’m currently learning **Sensors and Mixed Circuit IC Design.**
 
 - 💬 Ask me about **Signal Processing, IoT and Wireless Communication.**
 
-- 📫 How to reach me: **sudiptokuet28@gmail.com**
+- 📫 How to reach me: **suvro.sudipto@gmail.com**
 
 - ⚡ Fun fact about me: **I love to cook and play with my pet.**
 
