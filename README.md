@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Sensors and Integrated Circuit Design.**
 
-- 💬 Ask me about **Remote Monitoring Devices and Disease Prediction using AI.**
+- 💬 Ask me about **Signal Processing, IoT and Wireless Communication.**
 
 - 📫 How to reach me: **sudiptokuet28@gmail.com**
 
